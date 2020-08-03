@@ -5077,3 +5077,7 @@ Missing Cooked Info(expected 0): 0
 [2020.08.03-19.46.16:712][389]LogAudioMixer: Display: 0: FrontLeft
 [2020.08.03-19.46.16:712][389]LogAudioMixer: Display: 1: FrontRight
 [2020.08.03-19.46.41:599][974]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2020.08.03-20.23.55:860][636]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{bc5b8fca-dd91-4892-84e2-c9a614ccb15b}.
+[2020.08.03-20.23.55:861][636]LogTemp: Resetting audio stream to device id 
+[2020.08.03-20.23.56:416][636]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.03-20.23.56:416][636]LogAudioMixer: Display: 1: FrontRight
