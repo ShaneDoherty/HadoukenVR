@@ -1,0 +1,1 @@
+../../../HadoukenVR/HadoukenVR.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=D3DDEC104F857401166637A5841FA5C8 -SessionOwner="Doherty" -SessionName="Launch On Device" -iterative
