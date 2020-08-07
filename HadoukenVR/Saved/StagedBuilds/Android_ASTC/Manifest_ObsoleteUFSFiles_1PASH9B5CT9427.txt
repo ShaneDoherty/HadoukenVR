@@ -1,0 +1,14 @@
+HadoukenVR/Content/Assets/FlipbookFire/Fire_BP.uasset
+HadoukenVR/Content/Assets/FlipbookFire/Fire_BP.uexp
+HadoukenVR/Content/Assets/FlipbookFire/Fire_MAT.uasset
+HadoukenVR/Content/Assets/FlipbookFire/Fire_MAT.uexp
+HadoukenVR/Content/Assets/FlipbookFire/Fire_MAT_Inst.uasset
+HadoukenVR/Content/Assets/FlipbookFire/Fire_MAT_Inst.uexp
+HadoukenVR/Content/Assets/FlipbookFire/FlameSprites.uasset
+HadoukenVR/Content/Assets/FlipbookFire/FlameSprites.ubulk
+HadoukenVR/Content/Assets/FlipbookFire/FlameSprites.uexp
+HadoukenVR/Content/Assets/FlipbookFire/Gradient.uasset
+HadoukenVR/Content/Assets/FlipbookFire/Gradient.ubulk
+HadoukenVR/Content/Assets/FlipbookFire/Gradient.uexp
+ealityBP/Blueprints/BP_MotionController.uexp
+HadoukenVR/Saved/Logs/HadoukenVR-backup-0001.01.01-00.00.00.log
