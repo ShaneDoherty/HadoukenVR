@@ -1,4 +1,3 @@
-HadoukenVR/Config/DefaultInput.ini
 Engine/GlobalShaderCache-GLSL_ES3_1_ANDROID.bin
 Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset
 Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp
@@ -167,6 +166,10 @@ Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset
 Engine/Content/EditorMaterials/WidgetMaterial_Z.uexp
 Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset
 Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uexp
+Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset
+Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uexp
+Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uasset
+Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uexp
 Engine/Content/EditorMaterials/Camera/CineMat.uasset
 Engine/Content/EditorMaterials/Camera/CineMat.uexp
 Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset
@@ -223,6 +226,10 @@ Engine/Content/EditorMeshes/PhAT_FloorBox.uasset
 Engine/Content/EditorMeshes/PhAT_FloorBox.uexp
 Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset
 Engine/Content/EditorMeshes/PlanarReflectionPlane.uexp
+Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uasset
+Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uexp
+Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uasset
+Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uexp
 Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset
 Engine/Content/EditorMeshes/Camera/SM_CineCam.uexp
 Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset
@@ -239,6 +246,10 @@ Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset
 Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp
 Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset
 Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp
+Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset
+Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uexp
+Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uasset
+Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh_Skeleton.uexp
 Engine/Content/EditorResources/Bad.uasset
 Engine/Content/EditorResources/Bad.ubulk
 Engine/Content/EditorResources/Bad.uexp
@@ -682,6 +693,8 @@ Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset
 Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp
 Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset
 Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp
+Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset
+Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uexp
 Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset
 Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uexp
 Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset
@@ -698,6 +711,8 @@ Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset
 Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp
 Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset
 Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp
+Engine/Content/MapTemplates/Sky/SunsetAmbientCubemap.uasset
+Engine/Content/MapTemplates/Sky/SunsetAmbientCubemap.uexp
 Engine/Content/MobileResources/T_MobileControls_texture.uasset
 Engine/Content/MobileResources/T_MobileControls_texture.uexp
 Engine/Content/MobileResources/T_MobileMenu2.uasset
@@ -933,6 +948,8 @@ Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlm
 HadoukenVR/AssetRegistry.bin
 HadoukenVR/Content/ShaderArchive-Global-GLSL_ES3_1_ANDROID.ushaderbytecode
 HadoukenVR/Content/ShaderArchive-HadoukenVR-GLSL_ES3_1_ANDROID.ushaderbytecode
+HadoukenVR/Content/Assets/Dummy/RagdollDummy.uasset
+HadoukenVR/Content/Assets/Dummy/RagdollDummy.uexp
 HadoukenVR/Content/Assets/Fireball/FireBall_8x8.uasset
 HadoukenVR/Content/Assets/Fireball/FireBall_8x8.ubulk
 HadoukenVR/Content/Assets/Fireball/FireBall_8x8.uexp
@@ -957,6 +974,22 @@ HadoukenVR/Content/Assets/VRHands/Textures/TX_BasicHand_Normal.uexp
 HadoukenVR/Content/Assets/VRHands/Textures/TX_BasicHand_ORM.uasset
 HadoukenVR/Content/Assets/VRHands/Textures/TX_BasicHand_ORM.ubulk
 HadoukenVR/Content/Assets/VRHands/Textures/TX_BasicHand_ORM.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonIdle.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonRun.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonRun.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPersonWalk.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp
+HadoukenVR/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+HadoukenVR/Content/Mannequin/Animations/ThirdPerson_Jump.uexp
 HadoukenVR/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
 HadoukenVR/Content/Mannequin/Character/Materials/M_UE4Man_Body.uexp
 HadoukenVR/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
